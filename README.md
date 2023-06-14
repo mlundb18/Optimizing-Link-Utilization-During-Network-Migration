@@ -21,14 +21,14 @@ First, you need to set up a virtual enviroment and install the required packages
 If you haven't already, activate the virtual environment now. Make sure that the terminal is in the top-level of the project folder. Each experiment from the paper can be found in the 'experiment_setup' folder. To run an experiment, just run the corresponding python file by typing something like 'python experiment_setup/flow_removal_experiment.py'. The results can be found in the 'results' folder.
 
 ## Experiments overview
-  -The length bound experiment from section 6.2 is called 'length_bound_experiment.py'.
-  -The decision LP experiment from section 6.3 is called 'decision_lp_experiment.py'.
-  -The monotonicity experiment from section 6.4 is called 'monotonicity_experiment.py'.
-  -The pruning experiment from section 6.5 is partitioned into 3 files called
-    -'pruning_experiment_flows.py',
-    -'pruning_experiment_edges.py', and
-    -'pruning_experiment_combined.py'.
-  -The flow removal experiment from section 6.6 is called 'flow_removal_experiment.py'.
+  -The length bound experiment from section 6.2 is called 'length_bound_experiment.py'. <br />
+  -The decision LP experiment from section 6.3 is called 'decision_lp_experiment.py'. <br />
+  -The monotonicity experiment from section 6.4 is called 'monotonicity_experiment.py'. <br />
+  -The pruning experiment from section 6.5 is partitioned into 3 files called <br />
+    -'pruning_experiment_flows.py', <br />
+    -'pruning_experiment_edges.py', and <br />
+    -'pruning_experiment_combined.py'. <br />
+  -The flow removal experiment from section 6.6 is called 'flow_removal_experiment.py'. <br />
   -The combination of pruning and flow removal experiment from section 6.7 is called 'combination_of_pruning_and_flow_removal_experiment.py'.
 
 
