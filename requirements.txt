@@ -1,0 +1,13 @@
+PuLP
+cffi
+cvxpy
+ecos
+mip
+networkx
+numpy
+osqp
+pycparser
+qdldl
+scipy
+scs
+setuptools

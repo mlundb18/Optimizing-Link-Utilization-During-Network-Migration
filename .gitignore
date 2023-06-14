@@ -1,0 +1,16 @@
+venv/pyvenv.cfg
+.idea/workspace.xml
+.idea/tasks.xml
+logs
+data/DeprecatedData
+*.pyc
+.idea
+idea
+venv
+.pyc
+results/
+data/TopologyZooFlows/
+data/CapacitatedTopologyZoo/
+latex
+LaTeX 2
+tempdata
