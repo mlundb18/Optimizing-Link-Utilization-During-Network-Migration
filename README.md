@@ -25,9 +25,9 @@ If you haven't already, activate the virtual environment now. Make sure that the
   -The decision LP experiment from section 6.3 is called 'decision_lp_experiment.py'. <br />
   -The monotonicity experiment from section 6.4 is called 'monotonicity_experiment.py'. <br />
   -The pruning experiment from section 6.5 is partitioned into 3 files called <br />
-    -'pruning_experiment_flows.py', <br />
-    -'pruning_experiment_edges.py', and <br />
-    -'pruning_experiment_combined.py'. <br />
+    &nbsp;&nbsp;&nbsp;&nbsp;-'pruning_experiment_flows.py', <br />
+    &nbsp;&nbsp;&nbsp;&nbsp;-'pruning_experiment_edges.py', and <br />
+    &nbsp;&nbsp;&nbsp;&nbsp;-'pruning_experiment_combined.py'. <br />
   -The flow removal experiment from section 6.6 is called 'flow_removal_experiment.py'. <br />
   -The combination of pruning and flow removal experiment from section 6.7 is called 'combination_of_pruning_and_flow_removal_experiment.py'.
 
